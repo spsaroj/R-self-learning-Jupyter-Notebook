@@ -14,11 +14,11 @@ The original video can be found [here](https://www.youtube.com/watch?v=_V8eKsto3
 * [Data Formats](https://github.com/spsaroj/R-self-learning-Jupyter-Notebook/blob/master/Data%20Formats.ipynb)
 * [Factors](https://github.com/spsaroj/R-self-learning-Jupyter-Notebook/blob/master/Factors.ipynb)
 * [Entering Data](https://github.com/spsaroj/R-self-learning-Jupyter-Notebook/blob/master/Entering%20Data.ipynb)
-* [Importing Data]()
-* [Hierarchical Clustering]()
-* [Principal Components]()
-* [Regression]()
-* [Next Step]()
+* [Importing Data](https://github.com/spsaroj/R-self-learning-Jupyter-Notebook/blob/master/Importing%20Data.ipynb)
+* [Hierarchical Clustering](https://github.com/spsaroj/R-self-learning-Jupyter-Notebook/blob/master/Hierarchical%20Clustering%20.ipynb)
+* [Principal Components](https://github.com/spsaroj/R-self-learning-Jupyter-Notebook/blob/master/Principal%20Components.ipynb)
+* [Regression](https://github.com/spsaroj/R-self-learning-Jupyter-Notebook/blob/master/Regression.ipynb)
+* [Next Step](https://github.com/spsaroj/R-self-learning-Jupyter-Notebook/blob/master/Next%20Step.ipynb)
 
 ## Want to use this notebook?
 Since freecodecamps.org is a free resource and this repo is just my interpretation of that tutorial, you are free to use this resource for your own.
