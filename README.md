@@ -1,6 +1,6 @@
 # R
 
-This repo is my notebook made while learning R programming from [freecodecamps.org](https://www.freecodecamp.org/).
+This repo is my notebook made while learning R programming from [freecodecamps.org](https://www.freecodecamp.org/) or [datalab.cc](https://datalab.cc/).
 The original video can be found [here](https://www.youtube.com/watch?v=_V8eKsto3Ug).
 
 ## Order of files:
